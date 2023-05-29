@@ -14,11 +14,3 @@ colors
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 300, 400, 600
 */
-* {
-  margin: 0;
-  box-sizing: border-box;
-}
-
-body {
-  background-color: black;
-}
