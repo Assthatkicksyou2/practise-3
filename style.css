@@ -67,11 +67,13 @@ body {
 .flex-box {
   display: flex;
   justify-content: space-around;
+  column-gap: 50px;
 }
 
 .item-1 {
   color: hsl(178, 100%, 50%);
 }
+
 .item-2 {
   color: hsl(215, 51%, 70%);
 }
